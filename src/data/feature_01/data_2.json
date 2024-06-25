@@ -1,0 +1,22 @@
+[
+  { "firstName": "Anna", "lastName": "Nowak" },
+  { "firstName": "Jan", "lastName": "Kowalski" },
+  { "firstName": "Katarzyna", "lastName": "Wiśniewska" },
+  { "firstName": "Piotr", "lastName": "Wójcik" },
+  { "firstName": "Maria", "lastName": "Kamińska" },
+  { "firstName": "Tomasz", "lastName": "Lewandowski" },
+  { "firstName": "Ewa", "lastName": "Zielińska" },
+  { "firstName": "Michał", "lastName": "Szymański" },
+  { "firstName": "Agnieszka", "lastName": "Woźniak" },
+  { "firstName": "Krzysztof", "lastName": "Dąbrowski" },
+  { "firstName": "Paulina", "lastName": "Kozłowska" },
+  { "firstName": "Marcin", "lastName": "Jankowski" },
+  { "firstName": "Natalia", "lastName": "Kwiatkowska" },
+  { "firstName": "Paweł", "lastName": "Mazur" },
+  { "firstName": "Joanna", "lastName": "Baran" },
+  { "firstName": "Andrzej", "lastName": "Kaczmarek" },
+  { "firstName": "Barbara", "lastName": "Sawicka" },
+  { "firstName": "Łukasz", "lastName": "Pawlak" },
+  { "firstName": "Magdalena", "lastName": "Piotrowska" },
+  { "firstName": "Damian", "lastName": "Michalski" }
+]
